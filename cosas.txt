@@ -1,0 +1,2 @@
+La extensión se llama git Graph (muestra graficamente las ramas en vsc)
+git log --graph (eso nos da una vision de grafico de las ramas y como se fusionaron, recomiendo hacer eso despues de fusionar)
